@@ -1,0 +1,40 @@
+div{
+    border: 1px solid black;
+    background-color: #7cb9e8;
+    font-family: Roboto;
+    font-size: 16px;
+    border-radius: 0.8rem;
+}
+
+.first_box{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 1.5rem 1rem 1.5rem 1rem;
+    margin: 10rem 19rem 5rem 19rem;
+}
+
+.boxA{
+    margin: 1rem 22rem 5rem 22rem;
+    height: 7rem;
+    padding: 1rem;
+    padding-top: 0.2rem;
+}
+
+
+.boxA_title{
+    text-align: center;
+   
+}
+
+#apiText{
+    vertical-align: middle;
+   
+
+}
+
+button{
+    margin: 1rem;
+}
